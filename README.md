@@ -9,6 +9,7 @@ This repository will be updated as I progress and learn more.
 
 - **Net Salary Calculator** — A program that calculates the final salary after deductions like tax, insurance, and installments.
 - **Height Checker** — A simple program that checks whether a person is tall or average based on their gender and height.
+- **Calculator** — A dual-mode calculator that handles arithmetic and comparative operations.
 - *(More projects coming soon...)*
 
 ## Topics Covered (So Far)
@@ -16,6 +17,7 @@ This repository will be updated as I progress and learn more.
 - Basic input/output handling
 - Mathematical operations
 - Conditional statements (if/elif/else)
+- Comparison operators
 
 ## Future Topics (Coming Soon)
 
