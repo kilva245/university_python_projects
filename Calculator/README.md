@@ -1,19 +1,24 @@
 # Calculator 🧮
 
 This is a simple yet versatile Python calculator with two modes:  
-**Basic arithmetic** and **comparative operations**.
+**Basic arithmetic**, **comparative operations** and **engineering calculations**.
 
 ## Features
 
-- Two calculator models:
+- Three calculator models:
   - **Basic**: Supports `+`, `-`, `*`, `/`, `**`, `%`
   - **Comparative**: Supports `>`, `<`, `>=`, `<=`, `==`, `!=`
+  - **Engineering**: Supports advanced mathematical functions such as: 
+    - `sin`, `cos`, `tan` `cot`
+    - `pi`, `e`,   
+    - `ceil`, `floor`, `log`, `log10`, `log2`
+    - `round`, `sqrt`, `abs`
 - Handles invalid operator or model inputs gracefully
 
 ## How It Works
 
-1. The user selects a model: `basic` or `comparative`
-2. Inputs two numbers and an operator
+1. The user selects a model: `basic`, `comparative` or `engineering`
+2. Inputs two numbers and an operator (for basic/comparative) or one number (for engineering)
 3. The result is printed accordingly
 
 ## Example
@@ -32,4 +37,11 @@ Enter first number: 10
 Enter > < >= <= == != : <  
 Enter second number: 20  
 True
+```
+
+```bash
+Please choose a calculator model (basic/comparative/engineering): engineering  
+Enter your number: 3.14  
+Enter [sin, cos, tan, cot, pi, e, ceil, floor, log, log10, log2, round, sqrt, abs]: sin  
+0.00159265291
 ```
