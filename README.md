@@ -6,25 +6,29 @@ Welcome to my collection of Python projects developed during my university journ
 
 - **[Net Salary Calculator](#)**  
   A program that calculates the final salary after deductions like tax, insurance, and installments.
-  
+
 - **[Height Checker](#)**  
   A simple program that checks whether a person is tall or average based on their gender and height.
-  
+
 - **[Calculator](#)**  
-  A dual-mode calculator that handles arithmetic and comparative operations.
-  
+  A dual-mode calculator that handles arithmetic, comparative, and engineering operations.
+
+- **[Odd and Even Checker](#)**  
+  A loop-based program that classifies 10 user-input numbers into even and odd categories.
+
 - *(More projects coming soon...)*
 
 ## Topics Covered (So Far)
 
-- Basic input/output handling
-- Mathematical operations
-- Conditional statements (if/elif/else)
-- Comparison operators
+- Basic input/output handling  
+- Mathematical operations  
+- Conditional statements (`if/elif/else`)  
+- Comparison operators  
+- Loops (`for`, `while`) and modular arithmetic
 
 ## Future Topics (Coming Soon)
 
-- Loops and functions
+- Functions and modular programming  
 - Object-Oriented Programming (OOP)
 - File handling
 - Working with APIs
